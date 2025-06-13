@@ -4,13 +4,13 @@
 This is a simple R package with a set of functions to create a color palette for plotting at Annogen.
 
 ## Installation
-In R terminal type:
+In R type:
 ```r
 devtools::install_github("annogen/annogenPalette")
 ```
 
 ## Run examples
-The list below involves commands to be executed within the R terminal.
+The list below involves code to be executed via the R command line.
 
 ### Load library
 ```r
