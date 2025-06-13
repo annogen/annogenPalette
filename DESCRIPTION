@@ -6,7 +6,7 @@ Authors@R: c(
     person(
       "Lionel", "Morgado",
       email = "lionelmorgado@gmail.com",
-      role = c("aut")
+      role = c("aut", "cre")
     )
   )
 Description: Set of functions to generate a color palette for plotting and quickly visualize the available colors.
