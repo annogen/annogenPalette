@@ -23,11 +23,13 @@ ls("package:annogenPalette")
 ```
 
 ### Get color palette
+The code below allows to get a list of 16 hexadecimal color codes:
 ```r
 colors = get_anno_palette()
 ```
 
 ### Plot color palette
+To quickly visualize available colors and their indexes:
 ```r
 plot_anno_palette()
 ```
