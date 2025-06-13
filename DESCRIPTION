@@ -1,17 +1,16 @@
 Package: annogenPalette
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Color palette for plotting at Annogen
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      "Lionel Morgado",
+      email = "lionelmorgado@gmail.com",
+      role = c("aut")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: Set of functions to generate a color palette for plotting and quickly visualize the available colors.
+License: ND
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
