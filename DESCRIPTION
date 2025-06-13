@@ -4,7 +4,7 @@ Title: Color palette for plotting at Annogen
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Lionel Morgado",
+      "Lionel", "Morgado",
       email = "lionelmorgado@gmail.com",
       role = c("aut")
     )
