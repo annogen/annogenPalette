@@ -28,6 +28,8 @@ colors = get_anno_palette()
 ```
 
 ### Plot color palette
+```r
 plot_anno_palette()
+```
 
 ![annogenPalette](https://github.com/user-attachments/assets/cb1d0c22-5883-4a43-b20f-eb0d7683a39b)
